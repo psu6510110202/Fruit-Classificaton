@@ -18,7 +18,7 @@ my_model = load_model("fruit15_model.keras")
 def prepare_image(img):
     """
     Process the PIL image into the format that the model expects.
-    Assumes the model expects 250x250 pixel images as input.
+    Assumes the model expects 224x224 pixel images as input.
     """
     img_resized = cv2.resize(img, (224, 224), interpolation=cv2.INTER_LINEAR)  # Ensure image is resized to match the model input
     img_array = np.array(img_resized, dtype=np.float32)
@@ -51,7 +51,8 @@ def predict():
     # Predict the breed
     predictions = my_model.predict(img_cv2)
     fruit_index = np.argmax(predictions)  
-    class_labels = ["Apple", "Avocado","Banana", "Cherry", "Chickoo", "Corn", "Dragon", "Durian", "Grapes", "Kiwi", "Mango", "Orange", "Pineapple", "Strawberry", "Watermelon"]
+    class_labels = ["Apple", "Avocado","Banana", "Cherry", "Chickoo", "Corn", "Dragon", "Durian", 
+                    "Grapes", "Kiwi", "Mango", "Orange", "Pineapple", "Strawberry", "Watermelon"]
     fruit = class_labels[fruit_index]  
 
     return jsonify({'index': int(fruit_index), 'fruit': fruit})
