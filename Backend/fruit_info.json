@@ -1,15 +1,15 @@
 [
     {
         "fruit_id": 0,
-        "fruit_name": "Apple (แอปเปิ้ล)",
+        "fruit_name": "Apple",
         "fruit_image": "https://i.imgur.com/kcCyVJE.jpeg",
-        "fruit_history": "แอปเปิล มีต้นกำเนิดจากเอเชียกลาง และแพร่หลายไปทั่วโลกผ่านการค้าและการอพยพของผู้คน ในยุโรปและอเมริกาเหนือ แอปเปิลได้รับความนิยมอย่างมาก มีการพัฒนาสายพันธุ์ใหม่ๆ และกลายเป็นส่วนหนึ่งของวัฒนธรรมและตำนานต่างๆ มากมาย ปัจจุบัน แอปเปิลเป็นผลไม้ที่สำคัญทางเศรษฐกิจและมีประโยชน์ต่อสุขภาพสูง",
+        "fruit_history": "Apples originated in Central Asia and spread worldwide through trade and migration of people. In Europe and North America, apples gained great popularity, with new varieties being developed, becoming part of many cultures and legends. Today, apples are economically significant fruits and are highly beneficial for health.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยไฟเบอร์ ช่วยในการขับถ่าย",
-            "two": "ลดความเสี่ยงของโรคหัวใจ",
-            "three": "มีสารต้านอนุมูลอิสระ ช่วยป้องกันการเกิดมะเร็ง",
-            "four": "ช่วยควบคุมระดับน้ำตาลในเลือด",
-            "five": "เสริมสร้างระบบภูมิคุ้มกันให้แข็งแรง"
+            "one": "Rich in fiber, helps with digestion",
+            "two": "Reduces the risk of heart disease",
+            "three": "Contains antioxidants that help prevent cancer",
+            "four": "Helps regulate blood sugar levels",
+            "five": "Boosts the immune system"
         },
        "fruit_nutritions": {
             "calories": 52,
@@ -35,15 +35,15 @@
     },
     {
         "fruit_id": 1,
-        "fruit_name": "Avocado (อโวคาโด้)",
+        "fruit_name": "Avocado",
         "fruit_image": "https://i.imgur.com/XLCtAIy.jpeg",
-        "fruit_history": "อะโวคาโด มีถิ่นกำเนิดในทวีปอเมริกา โดยเฉพาะในเม็กซิโกและกัวเตมาลา ชาวอเมริกันดั้งเดิมรู้จักนำอะโวคาโดมาใช้ประโยชน์มานานหลายศตวรรษ ทั้งเป็นอาหารและใช้ในพิธีกรรมต่างๆ ด้วยเนื้อสัมผัสที่เนียนนุ่ม รสชาติมันๆ และมีไขมันดีต่อสุขภาพ ทำให้อะโวคาโดเป็นที่นิยมอย่างมากในหมู่ชนพื้นเมือง จากอเมริกากลาง อะโวคาโดได้แพร่กระจายไปยังภูมิภาคต่างๆ ทั่วโลก โดยเฉพาะในช่วงศตวรรษที่ 20 เมื่อมีการสำรวจและค้าขายระหว่างประเทศมากขึ้น ปัจจุบัน อะโวคาโดเป็นผลไม้ที่ได้รับความนิยมอย่างสูงทั่วโลก ด้วยคุณค่าทางโภชนาการที่หลากหลาย",
+        "fruit_history": "Avocado originated in the Americas, particularly in Mexico and Guatemala. Indigenous Americans have used avocados for centuries, both as food and in various rituals. With its smooth texture, rich flavor, and healthy fats, avocado became highly popular among native peoples. From Central America, avocados spread to different regions worldwide, especially during the 20th century when international exploration and trade increased. Today, avocados are highly popular across the globe due to their diverse nutritional benefits.",
         "fruit_benefit": {
-            "one": "ไขมันดี บำรุงหัวใจ",
-            "two": "โพแทสเซียมสูง ควบคุมความดัน",
-            "three": "วิตามินสูง บำรุงร่างกาย",
-            "four": "เส้นใยสูง ดีต่อระบบขับถ่าย",
-            "five": "สารต้านอนุมูลอิสระ ชะลอวัย"
+            "one": "Healthy fats, good for the heart",
+            "two": "High in potassium, helps regulate blood pressure",
+            "three": "Rich in vitamins, nourishes the body",
+            "four": "High in fiber, beneficial for digestion",
+            "five": "Contains antioxidants, slows aging"
         },
        "fruit_nutritions": {
             "calories": 160,
@@ -69,15 +69,15 @@
     },
     {
         "fruit_id": 2,
-        "fruit_name": "Banana (กล้วย)",
+        "fruit_name": "Banana",
         "fruit_image": "https://i.imgur.com/MBvu90c.jpeg",
-        "fruit_history": "กล้วย เป็นผลไม้ที่มีประวัติศาสตร์อันยาวนาน มีถิ่นกำเนิดในเอเชียใต้และเอเชียตะวันออกเฉียงใต้ โดยมีการเพาะปลูกและบริโภคมาตั้งแต่สมัยโบราณ กล้วยถูกนำไปใช้ประโยชน์ในหลากหลายรูปแบบ ทั้งเป็นอาหารหลัก พืชเศรษฐกิจ และมีความสำคัญทางวัฒนธรรมในหลายประเทศ จากเอเชียตะวันออกเฉียงใต้ กล้วยได้แพร่กระจายไปทั่วโลก และมีการพัฒนาสายพันธุ์ใหม่ๆ มากมาย ปัจจุบัน กล้วยเป็นผลไม้ที่ได้รับความนิยมทั่วโลก ด้วยรสชาติหวานหอมและคุณค่าทางอาหารที่สูง อาทิ โพแทสเซียม วิตามินซี และใยอาหาร ทำให้กล้วยเป็นส่วนหนึ่งของอาหารและเครื่องดื่มหลากหลายชนิด",
+        "fruit_history": "The banana is a fruit with a long history, originating in South and Southeast Asia. It has been cultivated and consumed since ancient times. Bananas have been used in a variety of ways, from being a staple food to an economic crop and even holding cultural significance in many countries. From Southeast Asia, bananas spread across the world, and many new varieties have been developed. Today, bananas are popular globally due to their sweet taste and high nutritional value, including potassium, vitamin C, and dietary fiber. Bananas are now an integral part of various foods and beverages.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยโพแทสเซียม ช่วยควบคุมความดันโลหิต",
-            "two": "ให้พลังงานอย่างรวดเร็ว เหมาะสำหรับเป็นอาหารว่าง",
-            "three": "มีใยอาหารสูง ช่วยให้ระบบขับถ่ายทำงานได้ดี",
-            "four": "บำรุงระบบประสาท ช่วยให้อารมณ์ดีและผ่อนคลาย",
-            "five": "ลดอาการตะคริวเนื่องจากมีโพแทสเซียมสูง"
+            "one": "Rich in potassium, regulate blood pressure.",
+            "two": "Provides quick energy, suitable as a snack.",
+            "three": "High in dietary fiber, good digestion.",
+            "four": "Nourishes the nervous system",
+            "five": "High potassium, Reduces cramps"
         },
         "fruit_nutritions": {
             "calories": 88,
@@ -103,15 +103,15 @@
     },
     {
         "fruit_id": 3,
-        "fruit_name": "Cherry (เชอร์รี่)",
+        "fruit_name": "Cherry",
         "fruit_image": "https://i.imgur.com/LvAqcWQ.jpeg",
-        "fruit_history": "เชอร์รี่เป็นผลไม้ที่มีถิ่นกำเนิดในแถบเอเชียกลางและยุโรปตะวันออก โดยมีประวัติศาสตร์ยาวนานหลายพันปี เชอร์รี่ได้รับความนิยมอย่างแพร่หลายในยุโรปตั้งแต่สมัยโบราณ โดยชาวโรมันและกรีกโบราณนิยมนำเชอร์รี่มาใช้เป็นทั้งอาหารและยา เนื่องจากเชอร์รี่มีรสชาติหวานอมเปรี้ยวสดชื่น และอุดมไปด้วยสารอาหารที่เป็นประโยชน์ต่อสุขภาพ เช่น วิตามินซี โพแทสเซียม และสารต้านอนุมูลอิสระ เชอร์รี่มีบทบาทสำคัญในวัฒนธรรมและศิลปะของหลายประเทศ เช่น ในยุโรปมักใช้เชอร์รี่ในการตกแต่งภาพวาดและประดับประดาในงานเฉลิมฉลอง ปัจจุบันเชอร์รี่ได้รับความนิยมในการบริโภคทั้งแบบสด แปรรูปเป็นไวน์ เชอร์รี่อบแห้ง หรือใช้เป็นส่วนผสมในเบเกอรี่และขนมหวานต่างๆ",
+        "fruit_history": "Cherries originate from Central Asia and Eastern Europe, with a history spanning thousands of years. They gained widespread popularity in Europe during ancient times, with Romans and Greeks using them as both food and medicine. Cherries are known for their sweet and tart flavor, rich in nutrients like vitamin C, potassium, and antioxidants. They have played a significant role in the culture and art of many countries, especially in Europe, where they are often used for decoration in paintings and celebrations. Today, cherries are enjoyed fresh, processed into wine, dried, or used in baked goods and desserts.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยสารเมลาโทนิน ปรับปรุงการนอนหลับ",
-            "two": "มีสารแอนโทไซยานินสูง ช่วยต้านอนุมูลอิสระ ",
-            "three": "ช่วยลดการอักเสบในร่างกาย",
-            "four": "เป็นแหล่งของโพแทสเซียม ควบคุมความดันโลหิต",
-            "five": "มีวิตามินเอสูง บำรุงสายตาและผิวพรรณ"
+            "one": "Rich in melatonin, improves sleep.",
+            "two": "High in anthocyanins, fights free radicals.",
+            "three": "Reduces inflammation.",
+            "four": "Good source of potassium",
+            "five": "High in vitamin A, supports eye and skin health."
         },
         "fruit_nutritions": {
             "calories": 50,
@@ -137,15 +137,15 @@
     },
     {
         "fruit_id": 4,
-        "fruit_name": "Chickoo (ละมุด)",
+        "fruit_name": "Chickoo",
         "fruit_image": "https://i.imgur.com/Ye9zTva.jpeg",
-        "fruit_history": "ละมุด เป็นผลไม้เขตร้อนที่มีถิ่นกำเนิดในเม็กซิโกและอเมริกากลาง โดยมีการนำไปปลูกอย่างแพร่หลายในเขตร้อนอื่นๆ เช่น เอเชียตะวันออกเฉียงใต้และอินเดีย ละมุดเป็นผลไม้ที่มีรสชาติหวาน และเนื้อสัมผัสนุ่ม ผลละมุดอุดมไปด้วยสารอาหารหลายชนิด เช่น วิตามินซี วิตามินเอ และโพแทสเซียม นอกจากนี้ ละมุดยังมีเส้นใยอาหารที่ช่วยในระบบย่อยอาหาร ปัจจุบันละมุดเป็นที่นิยมในหลายประเทศ และมักนำมาใช้ในของหวานและเครื่องดื่มหลากหลายชนิด",
+        "fruit_history": "Chickoo, also known as sapodilla, is a tropical fruit native to Mexico and Central America. It has been widely cultivated in other tropical regions like Southeast Asia and India. Chickoo has a sweet taste and soft texture, and is rich in nutrients such as vitamin C, vitamin A, and potassium. It also contains dietary fiber, which aids in digestion. Today, chickoo is popular in many countries and is often used in various desserts and beverages.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยวิตามินซี เสริมสร้างภูมิคุ้มกัน",
-            "two": "บำรุงผิวพรรณให้ชุ่มชื้นและสดใส",
-            "three": "มีไฟเบอร์สูง ป้องกันท้องผูก",
-            "four": "มีสารต้านอนุมูลอิสระ ปกป้องเซลล์จากความเสียหาย",
-            "five": "เสริมสร้างพลังงานและความสดชื่นให้ร่างกาย"
+            "one": "Rich in vitamin C, boosts immunity.",
+            "two": "Moisturizes and brightens skin.",
+            "three": "High in fiber, prevents constipation.",
+            "four": "Contains antioxidants, protects cells.",
+            "five": "Boosts energy and refreshes the body."
         },
         "fruit_nutritions": {
             "calories": 82,
@@ -171,15 +171,15 @@
     },
     {
         "fruit_id": 5,
-        "fruit_name": "Corn (ข้าวโพด)",
+        "fruit_name": "Corn",
         "fruit_image": "https://i.imgur.com/h6diNeU.jpeg",
-        "fruit_history": "ข้าวโพด มีถิ่นกำเนิดในทวีปอเมริกา โดยเฉพาะในเม็กซิโกและอเมริกากลาง ชาวอเมริกันดั้งเดิมปลูกข้าวโพดมาตั้งแต่โบราณ และถือเป็นพืชอาหารหลักที่สำคัญ ข้าวโพดถูกนำไปใช้ประโยชน์ในหลากหลายรูปแบบ ทั้งรับประทานสด ปรุงอาหาร และแปรรูปเป็นผลิตภัณฑ์ต่างๆ เช่น ป๊อบคอร์น แป้งข้าวโพด และอาหารสัตว์ จากอเมริกา ข้าวโพดได้แพร่กระจายไปทั่วโลกโดยนักเดินเรือชาวสเปน และกลายเป็นพืชเศรษฐกิจที่สำคัญในหลายประเทศ ข้าวโพดอุดมไปด้วยคาร์โบไฮเดรต ไฟเบอร์ และวิตามินต่างๆ",
+        "fruit_history": "Corn originated in the Americas, particularly in Mexico and Central America, where indigenous peoples have cultivated it since ancient times. It became a staple food and was used in various forms, from fresh consumption to cooking and processing into products like popcorn, cornmeal, and animal feed. Spanish explorers spread corn around the world, and it became an important economic crop in many countries. Corn is rich in carbohydrates, fiber, and various vitamins.",
         "fruit_benefit": {
-            "one": "เป็นแหล่งพลังงานคาร์โบไฮเดรต",
-            "two": "มีไฟเบอร์สูง ช่วยในการขับถ่าย ทางเดินอาหาร",
-            "three": "มีสารต้านอนุมูลอิสระ ลดความเสี่ยงของโรคมะเร็ง",
-            "four": "ช่วยบำรุงสายตา มีลูทีนและซีแซนทีน",
-            "five": "เสริมสร้างระบบภูมิคุ้มกัน มีวิตามินซี"
+            "one": "A source of carbohydrate energy.",
+            "two": "High in fiber, aids digestion.",
+            "three": "Contains antioxidants, reduces cancer risk.",
+            "four": "Supports eye health with lutein and zeaxanthin.",
+            "five": "Boosts immunity with vitamin C."
         },
         "fruit_nutritions": {
             "calories": 96,
@@ -205,15 +205,15 @@
     },
     {
         "fruit_id": 6,
-        "fruit_name": "Dragonfruit (แก้วมังกร)",
+        "fruit_name": "Dragonfruit",
         "fruit_image": "https://i.imgur.com/20VJZ6v.jpeg",
-        "fruit_history": "แก้วมังกร มีถิ่นกำเนิดในทวีปอเมริกาใต้ โดยเฉพาะในประเทศเม็กซิโกและกัวเตมาลา ชาวอเมริกันดั้งเดิมในภูมิภาคนี้ปลูกแก้วมังกรมาตั้งแต่โบราณ และถือเป็นผลไม้ที่มีความสำคัญทางวัฒนธรรมและอาหาร จากอเมริกาใต้ แก้วมังกรได้แพร่กระจายไปยังเอเชียตะวันออกเฉียงใต้ โดยเฉพาะประเทศเวียดนาม ซึ่งเป็นประเทศที่มีการปลูกแก้วมังกรในเชิงพาณิชย์เป็นจำนวนมาก ปัจจุบันแก้วมังกรได้รับความนิยมทั่วโลกเนื่องจากมีรสชาติหวาน อร่อย และมีประโยชน์ต่อสุขภาพ อุดมไปด้วยวิตามินซี ไฟเบอร์ และสารต้านอนุมูลอิสระ",
+        "fruit_history": "Dragonfruit originated in South America, particularly in Mexico and Guatemala, where indigenous peoples have cultivated it for centuries. It holds cultural and culinary significance in the region. From South America, dragonfruit spread to Southeast Asia, especially Vietnam, which is now a major commercial producer. Today, dragonfruit is popular worldwide for its sweet, delicious taste and health benefits, being rich in vitamin C, fiber, and antioxidants.",
         "fruit_benefit": {
-            "one": "ช่วยย่อยอาหาร มีไฟเบอร์สูง",
-            "two": "ควบคุมระดับน้ำตาลในเลือด",
-            "three": "ต้านอนุมูลอิสระ ลดเสี่ยงมะเร็ง",
-            "four": "เสริมสร้างภูมิคุ้มกันด้วยวิตามินซี",
-            "five": "บำรุงกระดูกและฟัน"
+            "one": "Aids digestion with high fiber.",
+            "two": "Helps regulate blood sugar levels.",
+            "three": "Rich in antioxidants, lowers cancer risk.",
+            "four": "Boosts immunity with vitamin C.",
+            "five": "Supports bone and teeth health."
         },
         "fruit_nutritions": {
             "calories": 50,
@@ -239,15 +239,15 @@
     },
     {
         "fruit_id": 7,
-        "fruit_name": "Durain (ทุเรียน)",
+        "fruit_name": "Durian",
         "fruit_image": "https://i.imgur.com/R4irPfA.jpeg",
-        "fruit_history": "ทุเรียน มีถิ่นกำเนิดในภูมิภาคเอเชียตะวันออกเฉียงใต้ โดยเฉพาะในประเทศอินโดนีเซีย มาเลเซีย และบรูไน ชาวพื้นเมืองในภูมิภาคนี้ปลูกทุเรียนมาตั้งแต่โบราณ และถือเป็นผลไม้ที่มีความสำคัญทางวัฒนธรรมและอาหาร จากเอเชียตะวันออกเฉียงใต้ ทุเรียนได้แพร่กระจายไปยังประเทศไทย และประเทศในภูมิภาคอินโดจีน ทำให้ทุเรียนกลายเป็นผลไม้ที่มีชื่อเสียงระดับโลกในปัจจุบัน เนื่องจากมีรสชาติเฉพาะตัว หอมหวาน และมีเนื้อสัมผัสที่หลากหลาย ทุเรียนอุดมไปด้วยคาร์โบไฮเดรต วิตามิน และแร่ธาตุต่างๆ",
+        "fruit_history": "Durian is native to Southeast Asia, particularly in Indonesia, Malaysia, and Brunei. Indigenous people in this region have cultivated durian for centuries, and it holds significant cultural and culinary importance. From Southeast Asia, durian spread to Thailand and the Indochina region, becoming a globally recognized fruit. Known for its distinctive flavor, sweet aroma, and diverse texture, durian is rich in carbohydrates, vitamins, and various minerals.",
         "fruit_benefit": {
-            "one": "ให้พลังงานสูง เหมาะสำหรับการเพิ่มพลังงาน",
-            "two": "มีไฟเบอร์ ช่วยในระบบย่อยอาหาร",
-            "three": "มีวิตามินซี ช่วยเสริมสร้างภูมิคุ้มกัน",
-            "four": "มีโพแทสเซียม ช่วยควบคุมความดันโลหิต",
-            "five": "ช่วยบำรุงผิวพรรณด้วยวิตามินและแร่ธาตุ"
+          "one": "High energy, great for boosting energy.",
+          "two": "Contains fiber, aids digestion.",
+          "three": "Rich in vitamin C, boosts immunity.",
+          "four": "Contains potassium, regulate blood pressure.",
+          "five": "Nourishes skin with vitamins and minerals."
         },
         "fruit_nutritions": {
             "calories": 147,
@@ -273,15 +273,15 @@
     },
     {
         "fruit_id": 8,
-        "fruit_name": "Grapes (องุ่น)",
+        "fruit_name": "Grapes",
         "fruit_image": "https://i.imgur.com/lVBhwRc.jpeg",
-        "fruit_history": "องุ่นเป็นผลไม้ที่มีประวัติศาสตร์ยาวนานนับพันปีและมีบทบาทสำคัญในหลายอารยธรรมทั่วโลก ถิ่นกำเนิดขององุ่นอยู่ในแถบเมดิเตอร์เรเนียน ตะวันออกกลาง และเอเชียตะวันตก การปลูกองุ่นเริ่มต้นตั้งแต่ยุคก่อนประวัติศาสตร์ โดยหลักฐานแสดงให้เห็นว่ามีการเพาะปลูกองุ่นมาแล้วกว่า 6,000-8,000 ปี ในสมัยโบราณ องุ่นมีความสำคัญในทางวัฒนธรรมและศาสนาอย่างมาก โดยเฉพาะในกรีกและโรมัน ที่องุ่นถูกนำมาใช้ในการผลิตไวน์ ซึ่งเป็นเครื่องดื่มที่มีความเกี่ยวข้องกับพิธีกรรมและงานเฉลิมฉลอง องุ่นไม่ได้ถูกจำกัดเพียงแค่การทำไวน์เท่านั้น แต่ยังบริโภคในรูปแบบขององุ่นสด องุ่นแห้ง (ลูกเกด) และน้ำองุ่น องุ่นยังมีคุณค่าทางเศรษฐกิจอย่างมากในอุตสาหกรรมอาหารและเครื่องดื่มทั่วโลก ปัจจุบันองุ่นมีการปลูกในหลายภูมิภาค ทั้งในยุโรป อเมริกา ออสเตรเลีย และเอเชีย ซึ่งมีการพัฒนาสายพันธุ์ใหม่ๆ เพื่อตอบสนองต่อความต้องการของตลาด องุ่นมีประโยชน์ต่อสุขภาพสูง เนื่องจากมีสารต้านอนุมูลอิสระ เช่น เรสเวอราทรอล ที่ช่วยลดความเสี่ยงของโรคหัวใจและมะเร็ง รวมถึงวิตามินซีและวิตามินเค ที่ช่วยเสริมสร้างภูมิคุ้มกันและกระดูก นอกจากนี้ องุ่นยังเป็นผลไม้ที่มีน้ำตาลธรรมชาติสูง ซึ่งให้พลังงานทันที และมีโพแทสเซียมที่ช่วยควบคุมความดันโลหิต ทำให้องุ่นเป็นที่นิยมในการบริโภคทั้งในรูปแบบผลสดและผลิตภัณฑ์ต่างๆ ที่ทำจากองุ่น เช่น น้ำองุ่น ไวน์ และลูกเกด",
+        "fruit_history": "Grapes have a history spanning thousands of years and have played a significant role in many civilizations. They originated in the Mediterranean, Middle East, and Western Asia. Grape cultivation began in prehistoric times, with evidence showing that grapes were cultivated over 6,000-8,000 years ago. In ancient times, grapes were culturally and religiously significant, particularly in Greece and Rome, where they were used to produce wine, a drink linked to rituals and celebrations. Besides wine production, grapes are consumed fresh, dried (raisins), or as grape juice. Grapes have great economic value in the global food and beverage industry. Today, grapes are grown in many regions, including Europe, America, Australia, and Asia, with new varieties developed to meet market demands. Grapes are packed with health benefits, such as antioxidants like resveratrol, which help reduce the risk of heart disease and cancer. They also contain vitamin C and vitamin K, which boost immunity and support bone health. Grapes' natural sugars provide quick energy, and their potassium content helps regulate blood pressure, making them popular in fresh and processed forms, such as juice, wine, and raisins.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยสารต้านอนุมูลอิสระ ช่วยชะลอความแก่",
-            "two": "ช่วยบำรุงหัวใจและหลอดเลือด",
-            "three": "ส่งเสริมการทำงานของสมองและความจำ",
-            "four": "ช่วยลดการอักเสบและบรรเทาอาการปวดข้อ",
-            "five": "ช่วยเพิ่มพลังงานและฟื้นฟูร่างกาย"
+            "one": "Rich in antioxidants, slows aging.",
+            "two": "Supports heart and vascular health.",
+            "three": "Enhances brain function and memory.",
+            "four": "Reduces inflammation, eases joint pain.",
+            "five": "Boosts energy and revitalizes the body."
         },
         "fruit_nutritions": {
             "calories": 66,
@@ -307,15 +307,15 @@
     },
     {
         "fruit_id": 9,
-        "fruit_name": "Kiwi (กีวี่)",
+        "fruit_name": "Kiwi",
         "fruit_image": "https://i.imgur.com/TAD3yiv.jpeg",
-        "fruit_history": "กีวี่เป็นผลไม้ที่มีถิ่นกำเนิดในประเทศจีน โดยชื่อดั้งเดิมของกีวี่คือ 'ลูกหยางเถา' (Yang Tao) ซึ่งมีประวัติศาสตร์ยาวนานมานับพันปี อย่างไรก็ตาม กีวี่ได้รับความนิยมและการพัฒนาสายพันธุ์อย่างมากในประเทศนิวซีแลนด์ในศตวรรษที่ 20 และได้รับชื่อว่า 'กีวี่' ตามนกกีวี่ซึ่งเป็นสัญลักษณ์ของประเทศ กีวี่ถูกนำไปเพาะปลูกในหลายภูมิภาคทั่วโลก โดยเฉพาะในยุโรป อเมริกา และเอเชีย ปัจจุบัน กีวี่มีความสำคัญทางเศรษฐกิจและเป็นที่นิยมในการบริโภคทั้งในรูปแบบผลสดและในผลิตภัณฑ์อาหารต่างๆ กีวี่มีคุณค่าทางโภชนาการสูงและมีวิตามินซีในปริมาณมาก ช่วยเสริมสร้างภูมิคุ้มกันและส่งเสริมการทำงานของผิวหนัง นอกจากนี้ กีวี่ยังมีไฟเบอร์สูง ช่วยในการย่อยอาหาร และมีสารต้านอนุมูลอิสระที่ช่วยปกป้องร่างกายจากโรคต่างๆ เช่น โรคหัวใจและมะเร็ง ด้วยรสชาติที่เป็นเอกลักษณ์ กีวี่จึงเป็นที่นิยมอย่างมากในการบริโภคทั้งในรูปแบบสด และผลิตภัณฑ์อื่นๆ เช่น น้ำกีวี่และกีวี่แห้ง",
+        "fruit_history": "Kiwi originated in China, where it was traditionally known as 'Yang Tao' and has a history spanning thousands of years. However, kiwi gained popularity and significant cultivation in New Zealand during the 20th century, where it was renamed 'kiwi' after the kiwi bird, a symbol of the country. Kiwi is now grown worldwide, especially in Europe, America, and Asia. Today, kiwi has economic importance and is consumed both fresh and in various food products. Kiwi is highly nutritious, containing large amounts of vitamin C that boost the immune system and promote healthy skin. Additionally, it is high in fiber, aiding digestion, and rich in antioxidants, which help protect against diseases like heart disease and cancer. With its unique flavor, kiwi is popular in fresh form and in products like kiwi juice and dried kiwi.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยวิตามินซี ช่วยเสริมสร้างภูมิคุ้มกัน",
-            "two": "ช่วยในการย่อยอาหาร ด้วยเอนไซม์ธรรมชาติ",
-            "three": "มีสารต้านอนุมูลอิสระ ช่วยชะลอความแก่",
-            "four": "ช่วยควบคุมระดับน้ำตาลในเลือด",
-            "five": "ส่งเสริมสุขภาพหัวใจและระบบหลอดเลือด"
+            "one": "Rich in vitamin C, boosts immunity.",
+            "two": "Aids digestion with natural enzymes.",
+            "three": "Contains antioxidants, slows aging.",
+            "four": "Helps regulate blood sugar levels.",
+            "five": "Promotes heart and vascular health."
         },
         "fruit_nutritions": {
             "calories": 60,
@@ -341,15 +341,15 @@
     },
     {
         "fruit_id": 10,
-        "fruit_name": "Mango (มะม่วง)",
+        "fruit_name": "Mango",
         "fruit_image": "https://i.imgur.com/VN9juqv.jpeg",
-        "fruit_history": "มะม่วงเป็นผลไม้ที่มีถิ่นกำเนิดในแถบเอเชียใต้ โดยเฉพาะในประเทศอินเดียและเมียนมาร์ ซึ่งมีประวัติศาสตร์ยาวนานกว่า 4,000 ปี มะม่วงถือเป็นผลไม้ที่มีความสำคัญทั้งในด้านวัฒนธรรม ศาสนา และเศรษฐกิจของภูมิภาคนี้ การเพาะปลูกมะม่วงแพร่กระจายไปยังภูมิภาคต่างๆ ทั่วโลก เช่น แอฟริกา อเมริกาใต้ และเอเชียตะวันออกเฉียงใต้ ปัจจุบันมะม่วงเป็นผลไม้ที่ได้รับความนิยมอย่างมากทั่วโลก ด้วยรสชาติหวานหอมและเนื้อสัมผัสนุ่ม มะม่วงมีคุณค่าทางโภชนาการสูง โดยเฉพาะวิตามินเอและวิตามินซี ที่ช่วยเสริมสร้างระบบภูมิคุ้มกันและบำรุงสายตา นอกจากนี้ มะม่วงยังมีไฟเบอร์ที่ช่วยในการย่อยอาหาร และสารต้านอนุมูลอิสระที่ช่วยลดความเสี่ยงต่อการเกิดโรคต่างๆ ด้วยความหลากหลายของสายพันธุ์ มะม่วงจึงสามารถบริโภคได้ทั้งในรูปแบบผลสด น้ำมะม่วง และผลิตภัณฑ์แปรรูปอื่นๆ เช่น มะม่วงอบแห้ง และมะม่วงดอง",
+        "fruit_history": "Mangoes originated in South Asia, particularly in India and Myanmar, with a history spanning over 4,000 years. Mangoes have played a significant role in the culture, religion, and economy of this region. Mango cultivation spread to other regions, such as Africa, South America, and Southeast Asia. Today, mangoes are popular worldwide due to their sweet, fragrant taste and soft texture. Mangoes are highly nutritious, especially rich in vitamins A and C, which help boost the immune system and maintain eye health. They are also high in fiber, aiding digestion, and contain antioxidants that reduce the risk of various diseases. With a wide variety of mango species, they can be consumed fresh, as juice, or as dried and preserved products.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยวิตามินซี ช่วยเสริมสร้างภูมิคุ้มกัน",
-            "two": "ช่วยในการย่อยอาหารและบำรุงระบบขับถ่าย",
-            "three": "มีสารต้านอนุมูลอิสระ ช่วยชะลอความแก่",
-            "four": "บำรุงผิวพรรณให้สดใสและสุขภาพดี",
-            "five": "เสริมสร้างพลังงานและฟื้นฟูร่างกาย"
+            "one": "Rich in vitamin C, boosts immunity.",
+            "two": "Aids digestion and bowel health.",
+            "three": "Contains antioxidants, slows aging.",
+            "four": "Promotes healthy, glowing skin.",
+            "five": "Boosts energy and revitalizes the body."
         },
         "fruit_nutritions": {
             "calories": 59,
@@ -375,15 +375,15 @@
     },
     {
         "fruit_id": 11,
-        "fruit_name": "Orange (ส้ม)",
+        "fruit_name": "Orange",
         "fruit_image": "https://i.imgur.com/PB8BMaa.jpeg",
-        "fruit_history": "ส้มมีถิ่นกำเนิดในแถบเอเชียตะวันออกเฉียงใต้ มีประวัติยาวนานกว่า 4,000 ปี ชาวจีนและอินเดียโบราณรู้จักนำส้มมาใช้ประโยชน์ทั้งด้านอาหารและยา จากนั้นส้มก็แพร่หลายไปทั่วโลกโดยพ่อค้าชาวอาหรับและโปรตุเกส ส้มมีบทบาทสำคัญในประวัติศาสตร์ของหลายประเทศ เช่น ในสเปน ส้มถูกใช้เป็นสัญลักษณ์ของความอุดมสมบูรณ์และความสุข ปัจจุบันมีสายพันธุ์ส้มนับพันชนิด ทั่วโลกนิยมปลูกส้มเพื่อบริโภคผลสด น้ำผลไม้ และแปรรูปเป็นผลิตภัณฑ์ต่างๆ มากมาย",
+        "fruit_history": "Oranges originated in Southeast Asia and have a history of over 4,000 years. Ancient Chinese and Indian civilizations used oranges for both food and medicine. The fruit spread worldwide through Arab and Portuguese traders. Oranges played a significant role in many countries, such as Spain, where they symbolized prosperity and happiness. Today, there are thousands of orange varieties, and they are widely cultivated for fresh consumption, juice, and processed products.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยวิตามินซี ช่วยเสริมสร้างภูมิคุ้มกัน",
-            "two": "มีสารต้านอนุมูลอิสระ ช่วยชะลอความแก่",
-            "three": "ช่วยบำรุงผิวพรรณและซ่อมแซมเนื้อเยื่อ",
-            "four": "ช่วยในการดูดซึมธาตุเหล็กจากอาหาร",
-            "five": "ช่วยควบคุมระดับคอเลสเตอรอลในร่างกาย"
+            "one": "Rich in vitamin C, boosts immunity.",
+            "two": "Contains antioxidants, slows aging.",
+            "three": "Nourishes skin and repairs tissues.",
+            "four": "Enhances iron absorption from food.",
+            "five": "Helps regulate cholesterol levels."
         },
         "fruit_nutritions": {
             "calories": 47,
@@ -409,15 +409,15 @@
     },
     {
         "fruit_id": 12,
-        "fruit_name": "Pineapple (สัปปะรด)",
+        "fruit_name": "Pineapple",
         "fruit_image": "https://i.imgur.com/LKTkxeu.jpeg",
-        "fruit_history": "สัปปะรด มีถิ่นกำเนิดในทวีปอเมริกาใต้ โดยเฉพาะในบริเวณป่าฝนแอมะซอน ชาวอินเดียนแดงในภูมิภาคนี้ปลูกสัปปะรดมาตั้งแต่โบราณ และถือเป็นผลไม้ที่มีความสำคัญทางวัฒนธรรมและอาหาร จากอเมริกาใต้ สัปปะรดได้แพร่กระจายไปยังภูมิภาคต่างๆ ทั่วโลกโดยนักเดินเรือชาวสเปนและโปรตุเกส ในศตวรรษที่ 16 และ 17 สัปปะรดได้รับความนิยมอย่างมากในหมู่ชนชั้นสูงในยุโรป เนื่องจากมีรสชาติหวาน หอม และมีเอกลักษณ์ ปัจจุบันสัปปะรดเป็นผลไม้เศรษฐกิจที่สำคัญของหลายประเทศทั่วโลก โดยเฉพาะในประเทศเขตร้อนและกึ่งเขตร้อน",
+        "fruit_history": "Pineapples originated in South America, especially in the Amazon rainforest, where Indigenous people cultivated them for centuries. The fruit spread globally in the 16th and 17th centuries through Spanish and Portuguese sailors. Pineapples became a favorite among European nobility for their sweet, fragrant, and unique flavor. Today, pineapples are an important economic crop in many tropical and subtropical countries.",
         "fruit_benefit": {
-            "one": "ช่วยย่อยอาหาร เนื่องจากมีเอนไซม์โบรมีเลน",
-            "two": "เสริมสร้างภูมิคุ้มกันด้วยวิตามินซีสูง",
-            "three": "ลดการอักเสบ บรรเทาอาการบวม",
-            "four": "มีแมงกานีส ช่วยบำรุงกระดูก",
-            "five": "ส่งเสริมสุขภาพผิว ลดความเสี่ยงต่อการเกิดริ้วรอย"
+            "one": "Aids digestion with bromelain enzyme.",
+            "two": "Boosts immunity with high vitamin C.",
+            "three": "Reduces inflammation and swelling.",
+            "four": "Supports bone health with manganese.",
+            "five": "Promotes healthy skin and reduces wrinkles."
         },
         "fruit_nutritions": {
             "calories": 50,
@@ -443,15 +443,15 @@
     },
     {
         "fruit_id": 13,
-        "fruit_name": "Strawberry (สตรอเบอร์รี่)",
+        "fruit_name": "Strawberry",
         "fruit_image": "https://i.imgur.com/IoaVUeq.jpeg",
-        "fruit_history": "สตรอเบอร์รี่ ผลไม้สีแดงสดใสรูปทรงหัวใจที่ใครๆ ก็หลงรัก มีถิ่นกำเนิดในทวีปยุโรปและอเมริกาเหนือ ชาวโรมันและกรีกโบราณนิยมนำสตรอว์เบอร์รีมาใช้เป็นทั้งอาหารและยา เนื่องจากมีรสชาติหวานอมเปรี้ยวและมีกลิ่นหอมชื่นใจ ในยุคกลาง สตรอว์เบอร์รีได้รับความนิยมอย่างมากในหมู่ชนชั้นสูง และถูกนำมาใช้ในการตกแต่งสวนและทำอาหารหวานต่างๆ การเพาะปลูกสตรอว์เบอร์รีแพร่หลายไปทั่วโลกในช่วงหลายศตวรรษที่ผ่านมา โดยเฉพาะในทวีปอเมริกาเหนือ ซึ่งมีการพัฒนาสายพันธุ์สตรอว์เบอร์รีให้มีขนาดใหญ่ รสชาติหวาน และผลผลิตสูง ",
+        "fruit_history": "Strawberries, the bright red heart-shaped fruit loved by many, originated in Europe and North America. Ancient Romans and Greeks used strawberries as both food and medicine for their sweet, slightly tart flavor and delightful aroma. In the Middle Ages, strawberries became popular among the elite and were used in garden decor and desserts. Strawberry cultivation spread globally over centuries, especially in North America, where varieties were developed to be larger, sweeter, and more productive.",
         "fruit_benefit": {
-            "one": "อุดมไปด้วยวิตามินซี เสริมสร้างภูมิคุ้มกัน",
-            "two": "มีสารต้านอนุมูลอิสระ ลดการอักเสบ ป้องกันโรคหัวใจ",
-            "three": "บำรุงผิวพรรณให้สดใสและชะลอการเกิดริ้วรอย",
-            "four": "มีไฟเบอร์สูง ในระบบย่อยอาหาร",
-            "five": "ช่วยลดระดับน้ำตาลในเลือดและดีต่อสุขภาพหัวใจ"
+          "one": "Rich in vitamin C, boosts immunity.",
+          "two": "Reduce inflammation, prevent heart disease.",
+          "three": "Enhances skin health and delays wrinkles.",
+          "four": "High in fiber, supports digestion.",
+          "five": "Lowers blood sugar levels, promotes heart health."
         },
         "fruit_nutritions": {
             "calories": 32,
@@ -477,15 +477,15 @@
     },
     {
         "fruit_id": 14,
-        "fruit_name": "Watermelon (แตงโม)",
+        "fruit_name": "Watermelon",
         "fruit_image": "https://i.imgur.com/xaLO8mE.jpeg",
-        "fruit_history": "แตงโม ผลไม้ทรงกลมสีเขียวสดใสที่มีเนื้อสีแดงฉ่ำ มีถิ่นกำเนิดในทวีปแอฟริกา โดยเฉพาะในทะเลทรายคาลาฮารี ชาวอียิปต์โบราณนิยมนำแตงโมมาใช้เป็นทั้งอาหารและเครื่องดื่ม เนื่องจากมีรสชาติหวานชื่นใจและช่วยดับกระหายได้ดี ในยุคโบราณ แตงโมถูกนำมาใช้เป็นของขวัญมอบให้แก่ฟาโรห์ และเชื่อกันว่าเป็นอาหารสำหรับผู้ตายในการเดินทางไปยังโลกหลังความตาย การปลูกแตงโมแพร่หลายไปทั่วโลกโดยพ่อค้าและนักเดินเรือ โดยเฉพาะในเอเชียและยุโรป ปัจจุบันมีสายพันธุ์แตงโมนับพันชนิด ทั่วโลกนิยมปลูกแตงโมเพื่อบริโภคผลสด ทำน้ำผลไม้ และแปรรูปเป็นผลิตภัณฑ์ต่างๆ มากมาย",
+        "fruit_history": "Watermelons, the round, bright green fruit with juicy red flesh, originated in Africa, particularly the Kalahari Desert. Ancient Egyptians valued watermelon as both food and drink due to its refreshing sweetness and thirst-quenching qualities. It was also used as a gift for pharaohs and believed to accompany the dead on their journey to the afterlife. Watermelon cultivation spread globally through traders and sailors, especially in Asia and Europe. Today, there are thousands of varieties, and watermelon is grown worldwide for fresh consumption, juice, and various products.",
         "fruit_benefit": {
-            "one": "ช่วยให้ร่างกายสดชื่น คลายร้อน",
-            "two": "บำรุงสายตาและเสริมภูมิคุ้มกัน",
-            "three": "ลดความเสี่ยงในการเกิดโรคมะเร็ง",
-            "four": "ป้องกันการขาดน้ำด้วยปริมาณน้ำสูง",
-            "five": "ลดความดันโลหิตและดีต่อหัวใจ"
+          "one": "Refreshes the body and cools you down.",
+          "two": "Supports eye health and boosts immunity.",
+          "three": "Reduces cancer risk.",
+          "four": "Prevents dehydration with high water content.",
+          "five": "Lowers blood pressure, supports heart health."
         },
         "fruit_nutritions": {
             "calories": 30,
