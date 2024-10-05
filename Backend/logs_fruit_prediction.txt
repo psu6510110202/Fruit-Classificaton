@@ -1,0 +1,9 @@
+04/10/2024 18:18:46 - It is a Pineapple, Probability is 93.60413551330566%
+04/10/2024 18:18:58 - It is a Corn, Probability is 97.91577458381653%
+04/10/2024 18:19:06 - It is a Avocado, Probability is 88.97731900215149%
+04/10/2024 18:37:09 - It is a Watermelon, Probability is 68.64717602729797%
+04/10/2024 18:37:24 - It is a Pineapple, Probability is 93.60413551330566%
+04/10/2024 18:37:34 - It is a Banana, Probability is 98.83595705032349%
+04/10/2024 18:45:29 - It is a Strawberry, Probability is 68.3477520942688%
+04/10/2024 18:45:40 - It is a Banana, Probability is 98.83595705032349%
+04/10/2024 18:45:47 - It is a Avocado, Probability is 88.97731900215149%

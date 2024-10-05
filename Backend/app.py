@@ -9,6 +9,7 @@ from tensorflow.keras.preprocessing import image
 from PIL import Image
 import numpy as np
 import cv2
+import datetime
 
 app = Flask(__name__)
 CORS(app, origins="http://localhost:5173")
@@ -53,7 +54,17 @@ def predict():
     fruit_index = np.argmax(predictions)  
     class_labels = ["Apple", "Avocado","Banana", "Cherry", "Chickoo", "Corn", "Dragon", "Durian", 
                     "Grapes", "Kiwi", "Mango", "Orange", "Pineapple", "Strawberry", "Watermelon"]
-    fruit = class_labels[fruit_index]  
+    fruit = class_labels[fruit_index]
+    probability = predictions[0][fruit_index] * 100
+    timestamp = datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    output_text = f'{timestamp} - It is a {fruit}, Probability is {probability}%\n'
+
+    # Save to a txt file
+    with open("logs_fruit_prediction.txt", "a") as file:
+        file.write(output_text)
+
+    # Print to console as well
+    print(output_text)
 
     return jsonify({'index': int(fruit_index), 'fruit': fruit})
 
